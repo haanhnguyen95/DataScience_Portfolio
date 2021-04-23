@@ -2,7 +2,8 @@
 
 My Data Science Portfolio
 
-# [Project 1: Create a R package for *Model-Based Clustering*] (https://github.com/haanhnguyen95/mixmodcluster)
+#[Project 1: Create a R package for Model-Based Clustering](https://github.com/haanhnguyen95/mixmodcluster)
+
 *mixmodcluster* is a R package for fitting a mixture model clustering of multivariate gaussian 
 or multinomial components or the both to a given dataset.
 
